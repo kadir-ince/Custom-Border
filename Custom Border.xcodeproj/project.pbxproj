@@ -13,6 +13,7 @@
 		5417DD6C24CC7003002BDBF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5417DD6B24CC7003002BDBF5 /* Assets.xcassets */; };
 		5417DD6F24CC7003002BDBF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5417DD6E24CC7003002BDBF5 /* Preview Assets.xcassets */; };
 		5417DD7224CC7003002BDBF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5417DD7024CC7003002BDBF5 /* LaunchScreen.storyboard */; };
+		5417DD7A24CC7026002BDBF5 /* CustomBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5417DD7924CC7026002BDBF5 /* CustomBorder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5417DD6E24CC7003002BDBF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5417DD7124CC7003002BDBF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5417DD7324CC7003002BDBF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5417DD7924CC7026002BDBF5 /* CustomBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBorder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5417DD6524CC6FFF002BDBF5 /* AppDelegate.swift */,
 				5417DD6724CC6FFF002BDBF5 /* SceneDelegate.swift */,
 				5417DD6924CC6FFF002BDBF5 /* ContentView.swift */,
+				5417DD7924CC7026002BDBF5 /* CustomBorder.swift */,
 				5417DD6B24CC7003002BDBF5 /* Assets.xcassets */,
 				5417DD7024CC7003002BDBF5 /* LaunchScreen.storyboard */,
 				5417DD7324CC7003002BDBF5 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				5417DD6624CC6FFF002BDBF5 /* AppDelegate.swift in Sources */,
 				5417DD6824CC6FFF002BDBF5 /* SceneDelegate.swift in Sources */,
+				5417DD7A24CC7026002BDBF5 /* CustomBorder.swift in Sources */,
 				5417DD6A24CC6FFF002BDBF5 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
