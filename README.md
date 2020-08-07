@@ -1,6 +1,5 @@
 # Custom-Border
-Custom Border With SwiftUI
-
+I Created Custom Border With SwiftUI
 | <img height=630 src="https://github.com/kadir-ince/Custom-Border/blob/master/mockup.png" alt="What's like?"> 	| <img height=330 src="https://github.com/kadir-ince/Custom-Border/blob/master/border.png" alt="What's like?"> 	|
 |-	|-	|
 
